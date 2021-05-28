@@ -1,0 +1,16 @@
+R +1000 800
+NO ./brick_wall.xpm
+SO ./brick_wall.xpm
+WE ./brick_wall.xpm
+EA ./brick_wall.xpm
+S ./red_face.xpm
+F funky
+C funky
+GAME on
+MOUSE on
+
+ 1T1
+ 101
+11011
+T0N0T
+1TTT1

@@ -1,0 +1,19 @@
+R 1200 800
+NO ./brick_wall.xpm
+SO ./brick_wall.xpm
+WE ./brick_wall.xpm
+EA ./brick_wall.xpm
+S ./red_face.xpm
+F funky
+C cartoon ceil spaces.xpm
+GAME on
+MOUSE on
+
+1TTT1
+T000T  111
+T000T  T01
+T000T  111
+T000T
+T0N0TTTTTTTT1
+T00000000000T
+1TTTTTTTTTTT1

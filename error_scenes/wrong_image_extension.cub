@@ -1,0 +1,20 @@
+R 1200 800
+NO ./brick_wall.jpg
+SO ./brick_wall.jpg
+WE ./brick_wall.jpg
+EA ./brick_wall.jpg
+S ./red_face.jpg
+F 255,159,0
+C 126,15,5
+#F funky
+#C funky
+#GAME on
+#MOUSE on
+
+1111111111
+10S001000111111
+100001000000001
+100000200010001
+111111111110101
+          10101
+          11111

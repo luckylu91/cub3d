@@ -1,0 +1,21 @@
+R 1200 800
+NO ./wall1.xpm
+SO ./wall2.xpm
+WE ./wall3.xpm
+EA ./wall4.xpm
+#S ./red_face.xpm
+S ./wolf_hitler.xpm
+#F 255,159,0
+#C 126,15,0
+F funky
+C funky
+GAME off
+MOUSE on
+
+1111111111
+10S001000111111
+T0000100000000T
+100000200010001
+1111111T1110101
+          10101
+          11111

@@ -1,0 +1,22 @@
+R 1200 800
+NO ./brick_wall.xpm
+SO ./brick_wall.xpm
+WE ./brick_wall.xpm
+EA ./brick_wall.xpm
+S ./red_face.xpm
+#S ./wolf_hitler.xpm
+#F 255,159,0
+#C 126,15,0
+F funky
+C funky
+GAME on
+MOUSE on
+
+1TTT1
+T000T  111
+T000T  T0T
+T000T  111
+T000T
+T0N0TTTTTTTT1
+T00000000000T
+1TTTTTTTTTTT1
